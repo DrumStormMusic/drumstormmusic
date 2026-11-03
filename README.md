@@ -1,4 +1,4 @@
-## A little bit about myself,
+## A bit about myself,
 I'm currently enrolled at Oregon State University as a transfer student from my previous degree in Graphic Design. The current degree I'm pursuing is Data Science with the possibility of a lateral move into Mechanical Engineering. In order for that to happen, I just need to pass a higher-level math class to become enrolled in Mechanical Engineering. My mind is completely made up whether I want to pursue that degree or not.
 
 I'm a life-long musician and naturally artisic at grayscale drawing. I've lost motivation for drawing, but music will probably be a passion of mine for the remainder of my life. I began playing guitar at age twelve and started playing drums by age thirteen. Once I sat behind a drum set I never looked back.
