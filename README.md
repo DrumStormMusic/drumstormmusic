@@ -1,4 +1,3 @@
-TEST TEST TEST
 ## A bit about myself,
 I'm currently enrolled at Oregon State University as a transfer student from my previous degree in Graphic Design. The current degree I'm pursuing is Data Science with the possibility of a lateral move into Mechanical Engineering. In order for that to happen, I just need to pass a higher-level math class to become enrolled in Mechanical Engineering. My mind is completely made up whether I want to pursue that degree or not.
 
@@ -11,6 +10,8 @@ A few things I'm aiming to pursue are below:
 I don't go by any pronouns, but I have zero issues with those who do. If it make someone happy to use them, then by all means do it.
 
 One interesting fact is that I have a YouTube channel that has a series of music videos I've created. If anyone's interested, you can find them at https://www.youtube.com/@drumstorm
+
+dkjbsfklhekfuuipasfuiafsub
 <!--
 
 **DrumStormMusic/drumstormmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
