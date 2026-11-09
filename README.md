@@ -10,6 +10,24 @@ A few things I'm aiming to pursue are below:
 I don't go by any pronouns, but I have zero issues with those who do. If it make someone happy to use them, then by all means do it.
 
 One interesting fact is that I have a YouTube channel that has a series of music videos I've created. If anyone's interested, you can find them at https://www.youtube.com/@drumstorm
+
+## Current Skills,
+- Data collection
+- Ground-up database building
+- Data Analysis
+- Data validation
+- Data integrity
+- Error tracking
+- Programming
+- PC-DMIS
+
+## Skills To Develop,
+- Python/SQL
+- R
+- Fortan/Julia
+- Java/C++
+- Scientic programming
+
 <!--
 
 **DrumStormMusic/drumstormmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
