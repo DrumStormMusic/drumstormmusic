@@ -11,7 +11,7 @@ I don't go by any pronouns, but I have zero issues with those who do. If it make
 
 One interesting fact is that I have a YouTube channel that has a series of music videos I've created. If anyone's interested, you can find them at https://www.youtube.com/@drumstorm
 
-## Current Skills,
+## Current Skills
 - Data collection
 - Ground-up database building
 - Data Analysis
@@ -21,13 +21,15 @@ One interesting fact is that I have a YouTube channel that has a series of music
 - Programming
 - PC-DMIS
 
-## Skills To Develop,
+## Skills To Develop
 - Python/SQL
 - R
 - Fortan/Julia
 - Java/C++
 - Scientic programming
 
+## Projects
+Project in progress — Check back soon!
 <!--
 
 **DrumStormMusic/drumstormmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
