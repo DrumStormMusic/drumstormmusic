@@ -29,7 +29,7 @@ One interesting fact is that I have a YouTube channel that has a series of music
 - Scientic programming
 
 ## Projects
-Project in progress — Check back soon!
+Projects in progress — Check back soon!
 <!--
 
 **DrumStormMusic/drumstormmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
