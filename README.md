@@ -1,3 +1,4 @@
+TEST TEST TEST
 ## A bit about myself,
 I'm currently enrolled at Oregon State University as a transfer student from my previous degree in Graphic Design. The current degree I'm pursuing is Data Science with the possibility of a lateral move into Mechanical Engineering. In order for that to happen, I just need to pass a higher-level math class to become enrolled in Mechanical Engineering. My mind is completely made up whether I want to pursue that degree or not.
 
