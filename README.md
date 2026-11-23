@@ -8,7 +8,7 @@ With this said, the previous positions I’ve held are rather tech driven. This 
 ## The Human Element,
 One interesting fact about me is that I have a YouTube channel that has a series of music videos I've created. If anyone's interested, you could find them at https://www.youtube.com/@drumstorm
 
-## Technical Skills
+## Current Skills
 - Data collection
 - Ground-up database building
 - Data Analysis
